@@ -19,10 +19,9 @@ Our client attempts to develop offline or online homoeopathy pharmaceutical stor
 
 5.Customer Reviews: Analyzing customer reviews and ratings of homeopathic products can provide insights into the satisfaction levels, effectiveness, and perceived quality of these products. This analysis can help you curate a selection of high-quality and well-regarded homeopathic products for your store, building trust and credibility with potential customers.
 
-## Data Webscrapping:
+## Data Webscrapping
 
 ### a> Webscrapping Packages
-
 ![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/beautifulsoup.png?raw=true)
 
 ### b> Webscrapping Code

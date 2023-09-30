@@ -3,6 +3,10 @@
 
 Analyzing the 1mg dataset can provide valuable insights into the market demand for homeopathic products and the customer preferences on the platform. By examining the sales data, customer behavior, and product performance related to homeopathic products, we can make an informed decision about opening an e-homeopathic store.
 
+## Problem Statement
+
+Our client attempts to develop offline or online homoeopathy pharmaceutical stores in order to assist them we analysing the Tata 1-Mg homoeopathy website and extracting vital knowledge that will assist them in opening a store.
+
 ## Key Focus Area:
 
 1.Market Demand: Analyzing the dataset of homeopathic products on the 1mg platform can provide insights into the market demand for these products. We can identify the popularity of homeopathic medicines, wellness products, and related items.
@@ -17,22 +21,22 @@ Analyzing the 1mg dataset can provide valuable insights into the market demand f
 
 ## Data Webscrapping:
 
+### a> Webscrapping Packages
 
-a> Webscrapping Packages
 ![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/beautifulsoup.png?raw=true)
 
-b> Webscrapping Code
+### b> Webscrapping Code
 ![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/webscrappingcode.png?raw=true) 
 
 The tool used for scraping data is Beautiful Soup, which is a Python library and scrapped 13 columns.
 ## Data Description
-a> Un organised Dataset
+### a> Un organised Dataset
 
 ![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/Unorganised.png?raw=true) 
 
 Its a excel dataset  after web scrapping Tata Mg website which is uncleaned and unorganized.
 
-b> Organised Dataset
+### b> Organised Dataset
 
 ![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/Screenshot%202023-09-30%20141324.png?raw=true) 
 
@@ -113,7 +117,7 @@ The most commonly used medicines:
 	Joint –SBL Dibonil Tablet
 	Skin - Bakson’s Calceria Fluorica Tab
 
-## Summary and Chalanges Faced
+## Summary and Challanges Faced
 
 ### Time Management:
 As it was a collaborative project, managing time was the major challenge our group encountered. However, we handled it extremely well because we scheduled project meetings every day and were able to complete the tata 1mg 

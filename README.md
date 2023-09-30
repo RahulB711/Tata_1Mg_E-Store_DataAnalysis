@@ -15,19 +15,29 @@ Analyzing the 1mg dataset can provide valuable insights into the market demand f
 
 5.Customer Reviews: Analyzing customer reviews and ratings of homeopathic products can provide insights into the satisfaction levels, effectiveness, and perceived quality of these products. This analysis can help you curate a selection of high-quality and well-regarded homeopathic products for your store, building trust and credibility with potential customers.
 
-## Procedure:
+## Data Webscrapping:
 
-1.Web srapping data:
-To analyse the dataset, first we have to scrape data from the Tata_1MG website.
-The tool used for scraping data is Beautiful Soup, which is a Python library.
 
-2.Clean dataset:
-Scrapped data was unorganised and uncleaned.
-The tool used to clean the dataset was Pandas,which is a Python library used for data manipulation and analysis.
+a> Webscrapping Packages
+![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/beautifulsoup.png?raw=true)
 
-3.Extract Meaningful Insights:
-On a clean dataset, we can now perform data analysis to get meaningful insight and create attractive visualisations.
-The tool used for visualisations was Microsoft PowerBi.
+b> Webscrapping Code
+![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/webscrappingcode.png?raw=true) 
+
+The tool used for scraping data is Beautiful Soup, which is a Python library and scrapped 13 columns.
+## Data Description
+a> Un organised Dataset
+
+![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/Unorganised.png?raw=true) 
+
+Its a excel dataset  after web scrapping Tata Mg website which is uncleaned and unorganized.
+
+b> Organised Dataset
+
+![App Screenshot](https://github.com/RahulB711/Tata_1Mg_E-Store_DataAnalysis/blob/main/Screenshots/Screenshot%202023-09-30%20141324.png?raw=true) 
+
+Unorganised dataset was cleaned using excel and powerbi tool with 9 columns.
+
 
 ## Useful Insights
 
@@ -103,5 +113,16 @@ The most commonly used medicines:
 	Joint –SBL Dibonil Tablet
 	Skin - Bakson’s Calceria Fluorica Tab
 
+## Summary and Chalanges Faced
+
+### Time Management:
+As it was a collaborative project, managing time was the major challenge our group encountered. However, we handled it extremely well because we scheduled project meetings every day and were able to complete the tata 1mg 
+project.
+### Learning new tool:
+We had to learn perspective library beautiful soup because our group had never used web scraping before. For this, we used official documentation and internet videos. 
+### Data cleaninig
+Because the data was  uncleaned and there were unwanted columns that were useless in our research, we used Excel and PowerBI to get rid of them.
+### Analysis and visuilisation
+Our group members collaborates to extract crucial insight and showcase it visually appealingly.
 
 

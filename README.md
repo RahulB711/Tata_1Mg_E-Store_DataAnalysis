@@ -125,7 +125,7 @@ project.
 We had to learn perspective library beautiful soup because our group had never used web scraping before. For this, we used official documentation and internet videos. 
 ### Data cleaninig
 Because the data was  uncleaned and there were unwanted columns that were useless in our research, we used Excel and PowerBI to get rid of them.
-### Analysis and visuilisation
+### Analysis and visualisation
 Our group members collaborates to extract crucial insight and showcase it visually appealingly.
 
 
